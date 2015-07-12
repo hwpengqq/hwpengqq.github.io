@@ -32,4 +32,7 @@ $(document).ready(function(){
     $("#article10").click(function(){
         window.location.href='http://mp.weixin.qq.com/s?__biz=MzA4ODAxMDQyMg==&amp;mid=208187445&amp;idx=1&amp;sn=afc4f9937483599210ad77147691699c&amp;3rd=MzA3MDU4NTYzMw==&amp;scene=6#rd';
     });
+    $("#index").click(function(){
+        window.location.href='index.html';
+    });
 });

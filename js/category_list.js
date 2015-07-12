@@ -38,4 +38,5 @@ $(document).ready(function(){
     $("#trip").click(function(){
         window.location.href='article_list_trip.html';
     });
+
 });
